@@ -12,7 +12,7 @@ function updateGreeting() {
 
 // Alerts
 function showMessage() {
-  alert("Thank you for visiting my portfolio! Email me at: 23-34981@g.batstate-u.edu.ph");
+  alert("Thank you for visiting my portfolio! Email me at:claricebarbosa043@gmail.com");
 }
 function showSocial(platform) {
   alert("Follow me on " + platform + " (Clarice Barbosa)" + " !");
